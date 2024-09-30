@@ -145,5 +145,5 @@ fun exemplo6() {
 fun exemplo7() {
     println("Rodando exemplo 7...")
     val sum = { a: Int, b: Int -> a + b }
-    println(sum(3, 4))
+    println(sum(3, 4)
 }
