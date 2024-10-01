@@ -1,6 +1,6 @@
 // Classe para representar um número
 class Numero(val valor: Int) {
-    // Método para calcular o quadrado do número
+    // Metodo para calcular o quadrado do número
     fun quadrado(): Int {
         return valor * valor
     }
