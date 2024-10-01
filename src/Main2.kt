@@ -69,6 +69,7 @@ fun main() {
     // Tipos compostos heterogêneos
     tupleExample()
     recordExample()
+
 }
 
 
