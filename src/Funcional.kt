@@ -1,4 +1,4 @@
-// Exemplo de Suporte a Programação Funcional com Lambda
+// Exemplar de Suporte a Programação Funcional com Lambda
 // Uma função que recebe outra função como parâmetro
 fun operarComNumero(numero: Int, operacao: (Int) -> Int): Int {
     return operacao(numero) // Executa a função passada como argumento

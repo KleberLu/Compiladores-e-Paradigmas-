@@ -1,4 +1,4 @@
-// Exemplo de Tratamento de Exceções
+// Exemplar de Tratamento de Exceções
 fun subtrair(a: Int, b: Int): Int {
     return try {
         // Tenta realizar a subtração

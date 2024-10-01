@@ -1,4 +1,4 @@
-// Exemplo de Programação Genérica
+// Exemplar de Programação Genérica
 // Uma classe genérica que pode armazenar qualquer tipo de valor
 class Caixa<T>(private val valor: T) {
     fun mostrarValor() {
