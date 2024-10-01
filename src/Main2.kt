@@ -1,7 +1,7 @@
 // Linguagem e Processo de Compilação (Origem e Evolução, Domínios, Compilação e Interpretação)
 
 // Exemplo simples de compilação em Kotlin
-fun helloWorld(): Unit {
+fun helloWorld() {
     println("Hello, Kotlin!")
 }
 
@@ -9,10 +9,10 @@ fun helloWorld(): Unit {
 
 // Exemplo com tipos primitivos
 fun primitiveTypes() {
-    val intExample: Int = 10
-    val doubleExample: Double = 10.5
-    val charExample: Char = 'A'
-    val booleanExample: Boolean = true
+    val intExample = 10
+    val doubleExample = 10.5
+    val charExample = 'A'
+    val booleanExample = true
 
     println("Int: $intExample, Double: $doubleExample, Char: $charExample, Boolean: $booleanExample")
 }
@@ -69,6 +69,8 @@ fun main() {
     // Tipos compostos heterogêneos
     tupleExample()
     recordExample()
+
+
 
 }
 
