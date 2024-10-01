@@ -66,6 +66,7 @@ fun main() {
     arrayExample()
     matrixExample()
 
+
     // Tipos compostos heterogêneos
     tupleExample()
     recordExample()
