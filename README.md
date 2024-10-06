@@ -13,6 +13,7 @@ A estrutura do repositório está organizada de acordo com os principais conceit
 ### 1. `main`
 **Objetivo:** Explorar subprogramas, funções e métodos em Kotlin, incluindo parâmetros, retorno de valores e sobrecarga de funções.  
 **Justificativa:** O uso de subprogramas é fundamental para a modularização do código e a reutilização de funções. Demonstrar esses conceitos permite que o grupo e outros estudantes entendam como funções podem tornar o código mais organizado, evitando duplicidade e facilitando a manutenção. 
+
 **Exemplo:** Para o exemplo elaborado e disponibilizado aqui, foi decidido juntar todos os exemplos apresentados em sala em um só código, a fim de tornar mais prático a elaboração dos testes.
 
 ### 2. `expressoes-e-estruturas-controle`
